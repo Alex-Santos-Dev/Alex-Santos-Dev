@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex Santos 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9bf2&height=200&section=header&text=Engineering%20Student%20&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Backend%20•%20Robotics%20•%20Linux%20Enthusiast&descAlign=50&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f9bf2&height=200&section=header&text=Engineering%20Student%20&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Programmer%20•%20Robotics%20•%20Linux%20Enthusiast&descAlign=50&descAlignY=60&descSize=20" />
 </div>
 
 <br>
